@@ -125,7 +125,7 @@ public class TechJobs {
             return;
         }
 
-        // Iterate through each job (row)
+            // Iterate through each job (row)
         for (HashMap<String, String> job : someJobs) {
             // Iterate through each key (column)
             System.out.println("\n*****");
